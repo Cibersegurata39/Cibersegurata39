@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cibersegurata39
+- 👀 I’m interested in cybersecurity, specially in pentesting
+- 🌱 I’m currently learning python and kali tools
+- 😄 Pronouns: he/him
