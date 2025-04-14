@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python and kali tools
 - 😄 Pronouns: he/him
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cibersegurata39.png" alt="Your Image Badge" />
+![image](https://github.com/user-attachments/assets/54492a11-1086-42bc-88a7-2a06ad26b376)
