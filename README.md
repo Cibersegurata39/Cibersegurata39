@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python and kali tools
 - 😄 Pronouns: he/him
 
-![image](https://github.com/user-attachments/assets/54492a11-1086-42bc-88a7-2a06ad26b376)
+![cibersegurata39](https://github.com/user-attachments/assets/e3a13537-d1b6-4ce5-9c3f-765680dd2553)
